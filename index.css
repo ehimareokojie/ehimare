@@ -1,0 +1,276 @@
+.logo{
+	position: absolute;
+	width: 184px;
+	height: 44px;
+	left: 80px;
+	top: 40px;
+}
+div{
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 63.4697px;
+	line-height: 109px;
+	position: absolute;
+	width: 554px;
+	height: 217.61px;
+	left: 80px;
+	top: 160.39px;
+}
+font {
+	font-family: cursive;
+	font-Weight: 400px;
+	font-Size: 72.54px;
+	Line-height: 108.81px;
+} 
+span{
+	position: absolute;
+	width: 421px;
+	height: 80px;
+	left: 80px;
+	top: 410px;
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 40px;
+	letter-spacing: 0.05em;
+}
+.barcode{
+	position: absolute;
+	width: 378px;
+	height: px;
+	top: 592px;
+	left :80px;
+} 
+p{
+	position: absolute;
+	width: 500px;
+	height: 42px;
+	left: 80px;
+	top: 801px;
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 40px;
+	letter-spacing: 0.05em;
+}
+.stocks{
+	position: absolute;
+	width: 87px;
+	height: 81px;
+	left: 80px;
+	top:881px;
+}
+.border1{
+	position: absolute;
+	width: 0px;
+	height: 75px;
+	left: 207px;
+	top: 881px;
+	border: 2px solid #DDDDDD;
+}
+.nft{
+	position: absolute;
+	width: 40px;
+	height: 81px;
+	left: 263px;
+	top: 881px;
+}
+.file{
+	position: absolute;
+	width: 0px;
+	height: 75px;
+	left: 363px;
+	top: 881px;
+	border: 2px solid #DDDDDD;
+}
+.crypto{
+	position: absolute;
+	width: 86px;
+	height: 81px;
+	left: 403px;
+	top: 881px;
+}
+.man{
+	position: absolute;
+width: 700px;
+height: 882px;
+left: 700px;
+top: 206px;
+}
+.scan{
+	position: absolute;
+width: 305px;
+height: 40px;
+left: 90px;
+top: 542px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 40px;
+letter-spacing: 0.05em;
+}
+.bigdollar{
+	position: absolute;	
+	left: 380px;
+	top: 196px;
+}
+.yellowellipse{
+	position: absolute;
+width: 678.47px;
+height: 678px;
+left: 678.47px;
+top: 301px;
+}
+.bluerec{
+	position: absolute;
+width: 652.42px;
+height: 616px;
+left: 804.56px;
+top: 482px;
+}
+.features{
+	position: absolute;
+width: 64px;
+height: 22px;
+left: 478px;
+top: 54px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+}
+.blog{
+	position: absolute;
+width: 34px;
+height: 22px;
+left: 633px;
+top: 54px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+}
+.premium{
+	position: absolute;
+width: 62px;
+height: 22px;
+left: 766px;
+top: 47px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+
+}
+.App{
+	position: absolute;
+width: 29px;
+height: 22px;
+left: 932px;
+top: 54px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+}
+.smalldollarabove{
+	position: absolute;
+width: 250px;
+left: 991.48px;
+top: 11.93px;
+}
+.smalldollarbelow{
+	position: absolute;
+
+left: 1108.77px;
+top: 430px;
+}
+.spiraltop{
+	position: absolute;
+	width: 210.51px;
+height: 135.92px;
+left: 1200px;
+	top:165px;
+}
+.greenrec{
+	position: absolute;
+width: 678.45px;
+height: 727px;
+left: 703.49px;
+top: 359px;
+}
+.coinright{
+	position: absolute;
+width: 176.6px;
+height: 186.98px;
+left: 1244.74px;
+top: 266px;
+
+}
+.coinbottom{
+	position: absolute;
+
+left: 605px;
+top: 813px;
+}
+.vectors{
+	position: absolute;
+width: 160px;
+height: 133.28px;
+left: 528.88px;
+top: 764px;
+
+}
+.lightgreenball{
+	position: absolute;
+width: 33px;
+height: 33px;
+left: 31px;
+top: 507px;
+}
+.pinkball{
+	position: absolute;
+width: 62px;
+height: 62px;
+left: 337px;
+top: 478px;
+}
+.blueball{
+	position: absolute;
+width: 53px;
+height: 53px;
+left: 804px;
+top: 121px;
+}
+.redball{
+	position: absolute;
+width: 14px;
+height: 14px;
+left: 1266px;
+top: 126px;
+}
+.yellowball{
+	position: absolute;
+width: 14px;
+height: 14px;
+left: 1309px;
+top: 252px;
+}
+.greenball{
+	position: absolute;
+width: 25px;
+height: 25px;
+left: 1400px;
+top: 730px;
+}
